@@ -1,2 +1,4 @@
 # Quotegenerator
-quote generator
+
+
+generates random quotes using api.
