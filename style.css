@@ -1,0 +1,58 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+    background: url("43666.jpg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}    
+div p{
+    color: #1F1F1F;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-family: 'Crimson Text', serif;
+    font-weight: bolder;
+}
+
+.container
+{
+    width: 800px;
+    margin: 15% 22% ;
+    position: absolute;
+    padding: 20px;
+}
+fieldset
+{
+    border-radius: 15px;
+    position: relative;
+    border: none;
+    height: 100px;
+    padding: 1px;
+}
+
+fieldset #author
+{
+    margin-left: 45%;
+}
+button
+{
+    margin: 2% 40%;
+    padding: 10px;
+    width: 120px;
+    border: 2px solid #606060FF;
+    border-radius: 15px;
+
+    background-color: #1F1F1F;
+    color: white;
+}
+.logo
+{
+    font-size: 22px;
+    color: white;
+    margin: 1% 1%;
+    font-weight: normal;
+    letter-spacing: 1px;
+    background-color: transparent;
+}
